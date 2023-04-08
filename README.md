@@ -1,4 +1,4 @@
-#📝 Quote Generator
+# 📝 Quote Generator
 This is a simple web application that generates random quotes with their respective authors. The project is built using HTML, CSS, and JavaScript with DOM manipulations.
 
 🚀 Features
@@ -12,7 +12,7 @@ Simple and easy-to-use interface
 Clone the repository or download the zip file.
 Extract the zip file (if downloaded) and open the project folder.
 Open the index.html file in your preferred browser to view the project.
-You can also visit a live link - 
+You can also visit a live link - https://beka-michitashvili.github.io/Quote-Generator/
 Click on the "New Quote" button to generate a new random quote.
 
 🧰 Technologies Used
